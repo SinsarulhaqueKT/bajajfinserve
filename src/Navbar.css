@@ -1,0 +1,276 @@
+.mainnavbar{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(2, 2, 68);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+/* .logoicon{
+    height: 30px;
+} */
+.place{
+    display: flex;
+    width: 650px;
+    background-color: white;
+
+
+}
+.searchicon{
+    width: 17px;
+    height: 32px;
+    border-left: 1px solid grey ;
+
+}
+.inputplace{
+    width: 100%;
+    outline: none;
+    background: none;
+    border: none;
+}
+.butandlogo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 180px;
+}
+
+/* ....................................................   ............................................. */
+
+
+.carts{
+    display: flex;
+    width: 380px;
+    height: 50px;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.alertimg{
+    width: 30px;
+    height: 20px;
+    background: none;
+    outline: none;
+    border: none;
+}
+.cartimag{
+    width: 30px;
+    height: 20px;
+    background: none;
+    outline: none;
+    border: none;
+}
+.Accountimage{
+    width: 30px;
+    height: 20px;
+    background: none;
+    outline: none;
+    border: none;
+}
+.Partnersimage{
+    width: 30px;
+    height: 20px;
+    background: none;
+    outline: none;
+    border: none;
+}
+.emicard{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+
+
+}
+.alertdiv{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+
+
+
+
+}
+.cartdiv{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+
+
+}
+.MyAccountdiv{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+
+
+
+}
+.Partnersdiv{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+
+}
+
+/* ....................................................   ............................................. */
+
+
+
+.bothmains{
+    display: flex;
+    flex-direction: column;
+}
+.dropdownmain{
+    background-color: rgb(2, 2, 68);
+    display: flex;
+    color: white;
+}
+.offcanvas-body{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/* ....................................................   ............................................. */
+
+
+.dropdownmain{
+    background-color: rgb(2, 2, 68);
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center;
+}
+.drop{
+    display: flex;
+    width: 65%;
+    justify-content: space-evenly;
+}
+.bootsrap-drop-bt{
+    background-color: rgb(2, 2, 68);
+    color: white;
+    outline: none;
+    border: none;
+}
+
+
+/* ....................................................   ............................................. */
+
+
+.feedbackdiv{
+    width: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.feedimg{
+    width: 20px;
+    height: 20px;
+
+}
+.download-appdiv{
+    width: 150px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.emiitext{
+    font-size: 10px;
+    text-decoration: none;
+}
+
+
+
+
+/* ....................................................   ............................................. */
+
+
+
+
+
+
+ul{
+    background-color: rgb(2, 2, 68);
+}
+li{
+  background-color: rgb(2, 2, 68);
+}
+.dropdown-item{
+    color: white;
+}
+.acclog{
+    width: 35px;
+    height: 30px;
+   
+}
+.menumyaccount{
+    width: 100%;
+    height: 110px;
+    background-color: rgb(4, 4, 94);
+    color:white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.accdiv{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: white;
+
+}
+.textindiv{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+}
+.accpara{
+    font-size: 15px;
+    color: gray;
+}
+.rightarrow{
+    width: 25px;
+    height: 22px;
+}
+.butandlogo{
+    color: black;
+}
+.offcanvas-bt{
+    outline: none;
+    background-color:rgb(2, 2, 68);
+    border: none;
+}

@@ -1,0 +1,32 @@
+.mainhome{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+/* ......................   ................... */
+
+
+.leftmainhome{
+    width: 70%;
+    background-color: aqua;
+}
+
+
+/* ......................   ................... */
+
+
+.rightmainhome{
+    width: 25%;
+    background-color: blue;
+
+}
+.super{
+    width: 200px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
